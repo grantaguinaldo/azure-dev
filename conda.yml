@@ -1,0 +1,7 @@
+name: az-func
+dependencies:
+- pip
+- python=3.7
+- pylint
+- pip:
+    - azure-functions
